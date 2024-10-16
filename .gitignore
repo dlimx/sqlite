@@ -50,3 +50,6 @@ _deps
 
 build/
 vcpkg_installed
+
+# IDE
+.vscode
